@@ -1,2 +1,2 @@
-# Trading-System
-Trading system that watches prices from two fake exchanges, looks for price differences, and tries to make a simulated trade when one exchange is cheaper than the other.
+# Digital-Wardrobe
+An AI-powered digital wardrobe and personal stylist that helps you organize your clothing, create outfits, and discover pieces that complement your style.
